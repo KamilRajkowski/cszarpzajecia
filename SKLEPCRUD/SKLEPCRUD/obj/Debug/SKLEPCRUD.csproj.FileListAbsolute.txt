@@ -1,0 +1,16 @@
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\SKLEPCRUD.exe.config
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\SKLEPCRUD.exe
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\SKLEPCRUD.pdb
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\EntityFramework.dll
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\EntityFramework.SqlServer.dll
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\EntityFramework.xml
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\bin\Debug\EntityFramework.SqlServer.xml
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.csprojResolveAssemblyReference.cache
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.FormStart.resources
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.LaptopyLista.resources
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.Properties.Resources.resources
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.csproj.GenerateResource.Cache
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.csproj.CoreCompileInputs.cache
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.exe
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.pdb
+Z:\cszarpzajecia\SKLEPCRUD\SKLEPCRUD\obj\Debug\SKLEPCRUD.LaptopDetails.resources
